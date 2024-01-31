@@ -1,0 +1,7 @@
+{
+  "name": "chentec",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
